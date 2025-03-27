@@ -6,7 +6,7 @@
 - Lecture: [Canva Link](https://kimyoungjin06.my.canva.site/2025-kisti-lecture)
 - Last Update: 2025.03.27
 
-![main](1.png)
-![lecturer](2.png)
-![agenda](3.png)
-![announcement](4.png)
+![main](img/1.png)
+![lecturer](img/2.png)
+![agenda](img/3.png)
+![announcement](img/4.png)
